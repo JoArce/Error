@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+}
+.text{ 
+  width:700px;
+  height:100px;
+  border: blue 5px double;
+  justify-content: center;
+  margin:0 auto 0 auto;
+}
+p{
+  font-family: serif; 
+  font-size: 1.3em;
+}
+.shipit{
+  max-width: 350px;
+  display:block;
+  margin:0 auto;
+}
