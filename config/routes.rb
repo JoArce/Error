@@ -7,6 +7,8 @@ Rails.application.routes.draw do
 
   get 'index/i18n'
 
+  get 'index/ErrorTipo'
+
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
  root to: 'index#error401'
 end
